@@ -2,7 +2,7 @@
     "latestVersion": "1.0.4",
     "minVersion": "1.0.0",
     "message": "A new version of Floor Is Alive is ready.",
-    "force": false,
+    "force": true,
     "storeUrl": "https://play.google.com/store/apps/details?id=com.levatrixstudios.floorisalive"
 }
 
